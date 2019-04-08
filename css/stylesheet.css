@@ -1,0 +1,22 @@
+html {
+  background: url(background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  height: 100%;
+}
+
+
+.instagram {
+ /*  position: absolute;
+  top: 70%;  */
+  font-family: helvetica;
+  text-align: center;
+  height: 70%;
+  vertical-align: middle;
+
+}
